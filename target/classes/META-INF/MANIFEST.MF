@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Built-By: prithvipalsingh
 Build-Jdk: 9.0.4
-Implementation-Title: gs-spring-boot
+Implementation-Title: spring-boot-db
 Implementation-Version: 0.1.0
-Implementation-Vendor-Id: org.springframework
+Implementation-Vendor-Id: com.spring.practice
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/gs-spring-boot
+ ot-starter-parent/spring-boot-db
 Created-By: Maven Integration for Eclipse
 

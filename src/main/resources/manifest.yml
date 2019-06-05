@@ -1,0 +1,7 @@
+applications:
+  - name: spring-boot-db
+    memory: 768M
+    instances: 1
+    random-route: true
+    path: spring-boot-db-0.1.0.jar
+    buildpack: https://github.com/cloudfoundry/java-buildpack
